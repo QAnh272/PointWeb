@@ -5,7 +5,7 @@ const PORT = process.env.PORT;
 const bodyParser = require('body-parser');
 const connectDB = require('./config/db');
 const cors = require('cors');
-const route = require('./router/index');
+const route = require('./router');
 const passport = require('passport');
 const LocalStrategy = require('passport-local').Strategy;
 //connect to database
