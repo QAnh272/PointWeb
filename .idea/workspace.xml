@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f379eb4-8b91-4298-a435-16227c47fef4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/server/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/db.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/config/db.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controller/siteController.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/controller/siteController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/router/siteRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/router/siteRouter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schema/infoSchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/schema/infoSchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/sqlFunction.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/util/sqlFunction.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,26 +15,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;history&quot;: [
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
     {
-      &quot;state&quot;: &quot;OPEN&quot;,
-      &quot;assignee&quot;: &quot;QAnh272&quot;,
-      &quot;author&quot;: &quot;QAnh272&quot;
+      "state": "OPEN",
+      "assignee": "QAnh272",
+      "author": "QAnh272"
     }
   ],
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;QAnh272&quot;,
-    &quot;author&quot;: &quot;QAnh272&quot;
-  }
-}</component>
+  "lastFilter": {}
+}]]></component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/QAnh272/PointWeb.git&quot;,
     &quot;accountId&quot;: &quot;d46f7427-866e-42a5-9640-15572a38ba64&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/server/controller/siteController.js" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -103,7 +93,7 @@
       <updated>1730462503046</updated>
       <workItem from="1730462504094" duration="8827000" />
       <workItem from="1730474205422" duration="650000" />
-      <workItem from="1730475311068" duration="1024000" />
+      <workItem from="1730475311068" duration="2393000" />
     </task>
     <servers />
   </component>
