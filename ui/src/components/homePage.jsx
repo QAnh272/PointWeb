@@ -1,5 +1,6 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
+import '../App.css';
 
 const HomePage = () => {
     const navigate = useNavigate();
@@ -9,12 +10,9 @@ const HomePage = () => {
     };
 
     return (
-        <div>
+        <div className="center-container">
             <h1>Welcome to G-Score</h1>
-            <button onClick={() => navigateTo('/search')}>Go to Search Page</button>
-            <button onClick={() => navigateTo('/import')}>Go to Import Page</button>
-            <button onClick={() => navigateTo('/update')}>Go to Update Page</button>
-            <button onClick={() => navigateTo('/upload')}>Go to Upload Page</button>
+            <button className="green-button" onClick={() => navigateTo('/api/search-student-scores')}>Go to Search Page</button>
         </div>
     );
 };
